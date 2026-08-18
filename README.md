@@ -16,7 +16,7 @@ This project bridges domain-specific financial compliance with modern data engin
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python (Pandas, SQLAlchemy)
 * **Database & Querying:** MySQL Workbench, Relational Database Schemas
 * **Logging & Error Handling:** Python `logging` module with structured exception management
